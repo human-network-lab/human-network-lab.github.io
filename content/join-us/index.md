@@ -9,9 +9,33 @@ sections:
     content:
       title: Join Us
       text: |
-        We are always interested in hearing from motivated students and researchers who share our interest in network neuroscience and brain-body interaction.
+        We do not have any actively funded openings right now. That said, we are always glad to hear from motivated people who share our interest in network neuroscience, brain-body interaction, and the other themes on our [Research](../research/) page — reach out and introduce yourself.
 
-        Get in touch via the [Contact](../contact/) page to introduce yourself and your interests.
+        <div style="max-width: 760px; margin: 2.5rem auto 0;">
+
+        <div style="margin-bottom: 2.25rem;">
+        <h2 style="margin-bottom: 0.6rem;">PhD students</h2>
+        <p style="line-height: 1.65; margin: 0;">We welcome inquiries from prospective doctoral students. Depending on the project, this typically runs through <a href="https://www.ac.umk.pl/">Academia Copernicana</a> (interdisciplinary) or the <a href="https://ars.umk.pl/en/">Doctoral School of Social Sciences</a> at Nicolaus Copernicus University. If our research resonates with you, get in touch before applying so we can discuss fit and possible projects.</p>
+        </div>
+
+        <div style="margin-bottom: 2.25rem;">
+        <h2 style="margin-bottom: 0.6rem;">Students</h2>
+        <p style="line-height: 1.65; margin: 0;">Undergraduate and master's students at Nicolaus Copernicus University are welcome to reach out about research opportunities in the lab, including thesis projects.</p>
+        </div>
+
+        <div style="margin-bottom: 2.25rem;">
+        <h2 style="margin-bottom: 0.6rem;">Postdocs</h2>
+        <p style="line-height: 1.65; margin: 0;">We do not currently have a funded postdoctoral position, but we are happy to support motivated postdoctoral researchers applying for their own external funding (e.g. national or EU fellowships).</p>
+        </div>
+
+        <div style="margin-bottom: 1rem;">
+        <h2 style="margin-bottom: 0.6rem;">Visiting scholars</h2>
+        <p style="line-height: 1.65; margin: 0;">We host visiting scholars and researchers for collaborative stays. Get in touch with a short outline of your interests and proposed timing.</p>
+        </div>
+
+        </div>
+
+        <p style="margin-top: 2rem;">Get in touch via the <a href="../contact/">Contact</a> page to introduce yourself and your interests.</p>
     design:
       columns: '1'
 ---
