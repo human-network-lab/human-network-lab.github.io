@@ -28,9 +28,15 @@ sections:
         <p style="line-height: 1.65; margin: 0;">We do not currently have a funded postdoctoral position, but we are happy to support motivated postdoctoral researchers applying for their own external funding (e.g. national or EU fellowships).</p>
         </div>
 
-        <div style="margin-bottom: 1rem;">
+        <div style="margin-bottom: 2.25rem;">
         <h2 style="margin-bottom: 0.6rem;">Visiting scholars</h2>
         <p style="line-height: 1.65; margin: 0;">We host visiting scholars and researchers for collaborative stays. Get in touch with a short outline of your interests and proposed timing.</p>
+        </div>
+
+        <div style="margin-bottom: 1rem;">
+        <h2 style="margin-bottom: 0.6rem;">Living in Toruń</h2>
+        <p style="line-height: 1.65; margin-bottom: 0.7rem;">Toruń's medieval Old Town is a UNESCO World Heritage Site, and the city is the birthplace of Nicolaus Copernicus — his house still stands a short walk from the university.</p>
+        <p style="line-height: 1.65; margin: 0;">The Vistula river valley, a 15-minute walk from the Old Town, holds some of Europe's most valuable floodplain forests — a Natura 2000 protected landscape and refuge for over 180 bird species.</p>
         </div>
 
         </div>
