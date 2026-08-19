@@ -18,13 +18,27 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: ''
+bio: Biomedical engineer studying stress dynamics and brain–body interactions through physiological signals and complex networks.
+
+interests:
+  - stress estimation
+  - biomedical signal processing
+  - complex network analysis
+  - dynamical systems
+  - machine learning
+  - fuzzy logic
 
 # Social/Academic Networking
-social: []
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:mortezanoori3302@gmail.com'
+  - icon: google-scholar
+    icon_pack: ai
+    link: 'https://scholar.google.com/citations?user=_W5cRd0AAAAJ&hl=fa&oi=sra'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: mortezanoori3302@gmail.com
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -33,3 +47,7 @@ highlight_name: false
 user_groups:
   - Team
 ---
+
+I come from a Biomedical Engineering background, with a focus on Bioelectric Engineering. My research has been centered on understanding complex human states through the signals continuously produced by the body. During my previous research, I worked on continuous stress estimation using multimodal physiological signals, which led me to explore the connections between biosignals, dynamical processes, and complex networks.
+
+I am particularly interested in interdisciplinary research and in bringing together ideas from different fields to better understand complex human systems. I am also fascinated by nature as a source of inspiration, especially by how natural systems organize, adapt, and interact. I am interested in exploring how these principles can inspire computational approaches to complex problems. Within my current PhD research, I am bringing these perspectives together to investigate stress dynamics and brain–body interactions.
