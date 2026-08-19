@@ -20,14 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Biomedical engineer studying stress dynamics and brain–body interactions through physiological signals and complex networks.
 
-interests:
-  - stress estimation
-  - biomedical signal processing
-  - complex network analysis
-  - dynamical systems
-  - machine learning
-  - fuzzy logic
-
 # Social/Academic Networking
 social:
   - icon: envelope
@@ -48,6 +40,19 @@ user_groups:
   - Team
 ---
 
+## Background
+
 I come from a Biomedical Engineering background, with a focus on Bioelectric Engineering. My research has been centered on understanding complex human states through the signals continuously produced by the body. During my previous research, I worked on continuous stress estimation using multimodal physiological signals, which led me to explore the connections between biosignals, dynamical processes, and complex networks.
 
+## Interests
+
 I am particularly interested in interdisciplinary research and in bringing together ideas from different fields to better understand complex human systems. I am also fascinated by nature as a source of inspiration, especially by how natural systems organize, adapt, and interact. I am interested in exploring how these principles can inspire computational approaches to complex problems. Within my current PhD research, I am bringing these perspectives together to investigate stress dynamics and brain–body interactions.
+
+## Keywords
+
+- stress estimation
+- biomedical signal processing
+- complex network analysis
+- dynamical systems
+- machine learning
+- fuzzy logic
