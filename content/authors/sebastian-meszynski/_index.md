@@ -22,12 +22,15 @@ bio: Engineer and researcher working at the intersection of automation, biomedic
 
 # Social/Academic Networking
 social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:sem@umk.pl'
   - icon: google-scholar
     icon_pack: ai
     link: 'https://scholar.google.com/citations?hl=pl&user=BSxBYwkAAAAJ&view_op=list_works&sortby=pubdate'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: sem@umk.pl
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
