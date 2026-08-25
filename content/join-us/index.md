@@ -33,6 +33,11 @@ sections:
         <p style="line-height: 1.65; margin: 0;">We host visiting scholars and researchers for collaborative stays. Get in touch with a short outline of your interests and proposed timing.</p>
         </div>
 
+        <div style="margin-bottom: 2.25rem;">
+        <h2 style="margin-bottom: 0.6rem;">Unity in variety</h2>
+        <p style="line-height: 1.65; margin: 0;">We think the best ideas often arrive sideways — by putting two things next to each other that don't obviously belong together. That kind of thinking isn't confined to universities. We're glad to work with people outside academia too — artists, entrepreneurs, and anyone else who sees the world differently and is willing to think alongside us.</p>
+        </div>
+
         <div style="margin-bottom: 1rem;">
         <h2 style="margin-bottom: 0.6rem;">Living in Toruń</h2>
         <p style="line-height: 1.65; margin-bottom: 0.7rem;">Toruń's medieval Old Town is a UNESCO World Heritage Site, and the city is the birthplace of Nicolaus Copernicus — his house still stands a short walk from the university.</p>
