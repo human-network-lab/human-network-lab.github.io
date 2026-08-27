@@ -28,6 +28,9 @@ social:
   - icon: link
     icon_pack: fas
     link: 'https://www.di.ubi.pt/~lfbaa/'
+  - icon: google-scholar
+    icon_pack: ai
+    link: 'https://scholar.google.pl/citations?hl=pl&user=lG8XbuEAAAAJ'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: luis.alexandre@ubi.pt
