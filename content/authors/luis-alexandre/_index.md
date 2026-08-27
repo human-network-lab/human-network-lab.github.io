@@ -42,11 +42,11 @@ user_groups:
 
 ## Background
 
-I have a Physics/Applied Math BSc, an MSc and a PhD in Electrical Engineering and Computers, and an Habilitation in Informatics. I've been working for more than 30 years with neural nets, computer vision, and its many applications.
+I have a Physics/Applied Math BSc, an MSc and a PhD in Electrical Engineering and Computers and an Habilitation in Informatics. I've been working for more than 30 years with neural nets, computer vision and its many applications.
 
 ## Interests
 
-I'm currently interested in two subjects: human brain information processing, and reinforcement and imitation learning, especially for robotics — we have a Unitree G1 at our lab.
+I'm currently interested in two subjects: human brain information processing and reinforcement and imitation learning, specially for robotics (we have a Unitree G1 at our lab).
 
 ## Keywords
 
