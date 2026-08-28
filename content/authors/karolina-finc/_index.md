@@ -21,7 +21,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: ''
+bio: Cognitive scientist studying how brain network organisation and geometry shape our experience, and how the brain connects to the body.
 
 # Social/Academic Networking
 social: []
@@ -36,3 +36,23 @@ highlight_name: true
 user_groups:
   - Team
 ---
+
+## Background
+
+I'm a cognitive scientist with a PhD in natural sciences, working at the Institute of Advanced Studies, Nicolaus Copernicus University in Toruń. My research combines neuroimaging with network science and network geometry to study how the brain's functional architecture is organised and how it reconfigures over time.
+
+## Interests
+
+In my research I explore how network organisation and dynamics shape our experience — from how the brain's functional architecture reconfigures over time and interacts with the body, to the network geometry underlying that reconfiguration. I'm increasingly drawn to what this can tell us about human nature, flow, wellbeing, and reducing stress in modern life.
+
+I'm also passionate about human creativity, music, philosophy, nature, photography, dance, and singing. I love to improvise in every domain of my life — from playing around with various musical instruments to combining seemingly distant concepts in science.
+
+## Keywords
+
+- network neuroscience
+- network geometry
+- brain-body interaction
+- flow
+- cognitive science
+- music
+- wellbeing
