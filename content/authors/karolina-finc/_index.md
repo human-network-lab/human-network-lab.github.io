@@ -55,7 +55,7 @@ I'm a cognitive scientist with a PhD in natural sciences, working at the Institu
 
 ## Interests
 
-In my research I explore how network organisation and dynamics shape our experience — from how the brain's functional architecture reconfigures over time and interacts with the body, to the network geometry underlying that reconfiguration. I'm increasingly drawn to what this can tell us about human nature, flow, wellbeing, and reducing stress in modern life.
+In my research I explore how network organisation and dynamics shape our experience — from how the brain's functional architecture reconfigures over time and interacts with the body, to the network geometry underlying that reconfiguration. I'm increasingly drawn to what this can tell us about human nature, flow state, wellbeing, and reducing stress in modern life.
 
 I'm also passionate about human creativity, music, philosophy, nature, photography, dance, and singing. I love to improvise in every domain of my life — from playing around with various musical instruments to combining seemingly distant concepts in science.
 
