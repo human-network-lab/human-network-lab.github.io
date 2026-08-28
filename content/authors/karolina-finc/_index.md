@@ -64,7 +64,7 @@ I'm also passionate about human creativity, music, philosophy, nature, photograp
 - network neuroscience
 - network geometry
 - brain-body interaction
-- flow
 - cognitive science
+- flow state
 - music
 - wellbeing
