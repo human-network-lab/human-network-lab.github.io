@@ -24,10 +24,22 @@ organizations:
 bio: Cognitive scientist studying how brain network organisation and geometry shape our experience, and how the brain connects to the body.
 
 # Social/Academic Networking
-social: []
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:finc@umk.pl'
+  - icon: link
+    icon_pack: fas
+    link: 'https://kfinc.github.io/'
+  - icon: google-scholar
+    icon_pack: ai
+    link: 'https://scholar.google.com/citations?user=mBE4nHsAAAAJ'
+  - icon: github
+    icon_pack: fab
+    link: 'https://github.com/kfinc'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: finc@umk.pl
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
