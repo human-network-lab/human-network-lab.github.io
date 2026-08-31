@@ -10,7 +10,7 @@ last_name: Petiurenko
 superuser: false
 
 # Role/position
-role: Undergraduate Student
+role: Master's Student
 
 # Organizations/Affiliations
 organizations:
@@ -18,13 +18,16 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: ''
+bio: Master's student studying interoception and how bodily awareness can be measured.
 
 # Social/Academic Networking
-social: []
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:albina.petiurenko@gmail.com'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: albina.petiurenko@gmail.com
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -33,3 +36,20 @@ highlight_name: false
 user_groups:
   - Team
 ---
+
+## Background
+
+I'm a master's student in Cognitive Science at Nicolaus Copernicus University in Toruń. My bachelor's thesis examined how temperament traits and anxiety relate to thermal detection and pain thresholds.
+
+## Interests
+
+My current focus is interoception and how it can be measured — not only with self-report questionnaires but also with behavioral tasks, particularly heartbeat-based ones. Each approach on its own gives a partial picture of bodily awareness, so I'm interested in what can be learned by combining them.
+
+## Keywords
+
+- interoception
+- heart rate discrimination
+- tempo perception
+- individual differences
+- psychophysics
+- embodied cognition
