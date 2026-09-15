@@ -32,7 +32,7 @@
   <div class="mr-3">
     {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
     {{ with $resource }}
-      {{ $image := .Fill "200x130 Center" }}
+      {{ $image := .Fill (printf "200x130 %s" ($item.Params.image.focal_point | default "Center")) }}
       {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
       <a href="{{$link}}" {{ $target | safeHTMLAttr }}>
         <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
