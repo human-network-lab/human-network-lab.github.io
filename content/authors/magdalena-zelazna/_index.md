@@ -41,3 +41,13 @@ I'm a Cognitive Science student at Nicolaus Copernicus University in Toruń. As 
 ## Interests
 
 I'm broadly interested in attention, flow states, interoception, and stress. My particular focus is on how these can be approached in a sporting context, both to understand and to work with them.
+
+## Keywords
+
+- cognitive training in sport
+- flow state
+- attention
+- interoception
+- stress
+- polyrhythm
+- virtual reality
