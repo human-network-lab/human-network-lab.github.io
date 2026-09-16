@@ -10,6 +10,7 @@ sections:
       title: Collaborators
       text: |
         - **Dani S. Bassett** — [Complex Systems Lab](https://complexsystemsupenn.com/), University of Pennsylvania
+        - **Michał Bola** — [Bola lab — neurobiology of vision and consciousness](https://brain.uj.edu.pl/research/Bola_lab/), Centre for Brain Research, Jagiellonian University
         - **Adam Izdebski** — [Human Ecology Lab (HUMECO)](https://humeco.umk.pl/), Institute of Advanced Studies, Nicolaus Copernicus University
         - **Alexander Refsum Jensenius** — [RITMO Centre for Interdisciplinary Studies in Rhythm, Time and Motion](https://www.uio.no/ritmo/english/); [MishMash Centre for AI and Creativity](https://mishmash.no/), University of Oslo
         - **Dean J. Krusienski** — [ASPEN LAB — Advanced Signal Processing in Engineering and Neuroscience](https://sites.google.com/view/aspenlab/), Virginia Commonwealth University
