@@ -44,6 +44,7 @@ header:
 # Site footer
 
 footer:
+  text: '[News feed (RSS)](/post/index.xml)'
   copyright:
     notice: '© {year} Human Network Lab. This work is licensed under {license}'
     license:
