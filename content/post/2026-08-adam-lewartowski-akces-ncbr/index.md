@@ -20,4 +20,4 @@ projects: []
 
 **SOMATAKT**, a spin-off built on the lab's work on polyrhythmic training, has been selected for **HPN IMPAKT**, an acceleration programme run by Akces NCBR — a company of the Polish National Centre for Research and Development — with UNEP/GRID-Warsaw as its substantive partner. The programme backs solutions that have already left the early research stage, and funds the work of turning them into something people can actually use.
 
-Behind SOMATAKT are **Adam Lewartowski** and **Karolina Finc**. The company grows directly out of the polyrhythmic training work done here, including the virtual reality prototype built and piloted in the lab.
+SOMATAKT is led by **Adam Lewartowski** and co-founded by **Karolina Finc**. The company grows directly out of the polyrhythmic training work done here, including the virtual reality prototype built and piloted in the lab.
