@@ -10,7 +10,7 @@ last_name: Olszewski
 superuser: false
 
 # Role/position
-role: Collaborator
+role: Creative Technologist
 
 # Organizations/Affiliations
 organizations:
