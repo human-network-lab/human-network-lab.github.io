@@ -34,7 +34,7 @@ sections:
             &ldquo;A man becomes creative, whether he is an artist or a scientist, when he finds a new unity in the variety of nature. He does so by finding a likeness between things which were not thought alike before.&rdquo;
           </p>
           <p style="margin-top: 0.75rem; opacity: 0.7;">
-            — Jacob Bronowski, <em>Science and Human Values</em> (1956)
+            — Jacob Bronowski, &ldquo;The Creative Process,&rdquo; <em>Scientific American</em> (1958)
           </p>
         </div>
     design:
