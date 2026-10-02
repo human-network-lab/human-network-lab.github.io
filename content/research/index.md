@@ -65,12 +65,12 @@ sections:
         <img src="/media/research/stress-and-resilience.png" alt="" width="140" height="140" style="flex: 0 0 140px;">
         <div style="flex: 1 1 260px; min-width: 0;">
         <h2 style="margin-top: 0; margin-bottom: 0.6rem;">Stress and resilience</h2>
-        <p style="line-height: 1.65; margin-bottom: 0;">Under stress, the brain–body network reconfigures to meet the demand and returns to its previous state once the demand has passed. We treat resilience as a property of this whole network: how flexibly it reconfigures under load and how readily it recovers. We ask why this capacity differs so much between people, and how it depends on the environments they live in, including their contact with nature.</p>
+        <p style="line-height: 1.65; margin-bottom: 0;">Under stress, the brain–body network reconfigures to meet the demand and returns to its previous state once the demand has passed. We treat resilience as a property of this whole network: how flexibly it reconfigures under load and how readily it recovers. We ask why this capacity differs so much between people.</p>
         </div>
         </div>
         <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 0.7rem; margin-bottom: 1rem;">
         <div style="flex: 0 0 140px;"></div>
-        <p style="flex: 1 1 260px; min-width: 0; font-size: 0.9rem; opacity: 0.65; margin: 0;">allostatic regulation · recovery dynamics · network flexibility · human ecology · nature exposure · individual differences</p>
+        <p style="flex: 1 1 260px; min-width: 0; font-size: 0.9rem; opacity: 0.65; margin: 0;">allostatic regulation · recovery dynamics · network flexibility · human ecology · individual differences</p>
         </div>
 
         </div>
