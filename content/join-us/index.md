@@ -15,7 +15,7 @@ sections:
 
         <div style="margin-bottom: 2.25rem;">
         <h2 style="margin-bottom: 0.6rem;">PhD students</h2>
-        <p style="line-height: 1.65; margin: 0;">We welcome inquiries from prospective doctoral students. Depending on the project, this typically runs through <a href="https://www.ac.umk.pl/">Academia Copernicana</a> (interdisciplinary) or the <a href="https://ars.umk.pl/en/">Doctoral School of Social Sciences</a> at Nicolaus Copernicus University. If our research resonates with you, get in touch before applying so we can discuss fit and possible projects.</p>
+        <p style="line-height: 1.65; margin: 0;">We welcome inquiries from prospective doctoral students. Depending on the project, this typically runs through <a href="https://www.ac.umk.pl/">Academia Copernicana</a> (interdisciplinary) or the <a href="https://ars.umk.pl/en/">Doctoral School of Social Sciences</a> at Nicolaus Copernicus University. If our research resonates with you, get in touch before applying so we can discuss fit and possible projects. International candidates may find the university's <a href="https://box.pionier.net.pl/f/8878edec578e4539a52e/">Practical Guide for International PhD Candidates</a> helpful, as it covers visas, registration, accommodation, scholarships and everyday life in Toruń.</p>
         </div>
 
         <div style="margin-bottom: 2.25rem;">
